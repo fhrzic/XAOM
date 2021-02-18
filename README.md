@@ -14,4 +14,4 @@ The necessary "VGG16" model can be obtained from the following link: https://dri
 
 ---
 
-Last but not least, in "ExporDicomToPng" we offer a tool for exporting pixel data of the medical "Dicom" files to ".png" files that the proposed method uses.
+Last but not least, in "ExportDicomToPng" we offer a tool for exporting pixel data of the medical "Dicom" files to ".png" files that the proposed method uses.
