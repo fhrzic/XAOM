@@ -10,7 +10,7 @@ The "DataExamples" folder contains representative X-ray images for each body par
 ---
 
 In the "Notebooks" folder, you can find the "XAOM.ipynb" that is utilizing the proposed method with full comments. The required TensorFlow version is ">2.0.0". 
-The necessary "VGG16" model can be obtained from the following link: https://drive.google.com/file/d/1HIsqdnSUe_BFAtN-jB9lWMfTlgfPBYqC/view?usp=sharing
+The necessary "VGG16" model can be obtained from the following link: https://drive.google.com/drive/folders/1yioBRyJBsdckjUkuMbZyCY1JvsI18_Oa?usp=sharing
 
 ---
 
